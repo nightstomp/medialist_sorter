@@ -16,7 +16,6 @@ $REX['ADDON']['supportpage'][$mypage] = 'nightstomp.com';
 // INCLUDE MEDIALIST_SORTER JS/CSS
 $header = '
 <!-- medialist_sorter -->
-  <link rel="stylesheet" type="text/css" href="../files/addons/be_style/plugins/medialist_sorter/screen.css" media="screen, projection, print" />
   <script src="../files/addons/be_style/plugins/medialist_sorter/script.js" type="text/javascript"></script>
 <!-- medialist_sorter -->
 ';
